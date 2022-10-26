@@ -1,0 +1,17 @@
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\bin\Debug\net6.0-windows\bilgiyarismasi.exe
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\bin\Debug\net6.0-windows\bilgiyarismasi.deps.json
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\bin\Debug\net6.0-windows\bilgiyarismasi.runtimeconfig.json
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\bin\Debug\net6.0-windows\bilgiyarismasi.dll
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\bin\Debug\net6.0-windows\bilgiyarismasi.pdb
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\bilgiyarismasi.csproj.AssemblyReference.cache
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\bilgiyarismasi.Form1.resources
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\bilgiyarismasi.csproj.GenerateResource.cache
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\bilgiyarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\bilgiyarismasi.AssemblyInfoInputs.cache
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\bilgiyarismasi.AssemblyInfo.cs
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\bilgiyarismasi.csproj.CoreCompileInputs.cache
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\bilgiyarismasi.dll
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\refint\bilgiyarismasi.dll
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\bilgiyarismasi.pdb
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\bilgiyarismasi.genruntimeconfig.cache
+C:\Users\emir_\source\repos\bilgiyarismasi\bilgiyarismasi\obj\Debug\net6.0-windows\ref\bilgiyarismasi.dll
